@@ -1,0 +1,1 @@
+This project explores the pivotal role of emotions in shaping user engagement on social media platforms. By harnessing AI-powered sentiment analysis, we aim to decode the emotional nuances present in online interactions and leverage these insights to develop engagement-predicting models.
